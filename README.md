@@ -17,13 +17,12 @@ NutriQ is a meal planner application that generates meals & recipes based on you
     * [x] Age, Gender, Height, Weight
     * [x] Fitness and weight goals
 * [x] User can see customized daily calorie limit
-
-<p float= "left">
-   <img src="https://media.giphy.com/media/MBIIIluiUA497RKRJE/giphy.gif" width=250>
-      <img src="https://media.giphy.com/media/gHce15H4T5kOABJwjS/giphy.gif" width=250>
-   <img src="https://media.giphy.com/media/WrUrHkB7bifcE5cq7d/giphy.gif" width=250>
-      
-</p>
+* [x] User can click on a cell and view details
+* [x] User can update their weight
+* [x] User can view progress towards goal
+* [x] User can edit their goals
+* [x] User can change password
+* [x] User can delete account
 
 
 ### App Evaluation
@@ -50,14 +49,14 @@ NutriQ is a meal planner application that generates meals & recipes based on you
     * [x] Age, Gender, Height, Weight
     * [x] Fitness and weight goals
 * [x] User can see customized daily calorie limit
-* [ ] User can view customized meal plan (TableView)
-    * [ ] Nutrition requirements will be based on calculated BMR (Basal Metabolic Rate)
-* [ ] User can click on a cell and view details
-* [ ] User can update their weight
-* [ ] User can view progress towards goal
-* [ ] User can edit their goals
-* [ ] User can change password
-* [ ] User can delete account
+* [x] User can view customized meal plan
+    * [x] Meal plan will be based on calculated BMR (Basal Metabolic Rate)
+* [x] User can click on a cell and view details
+* [x] User can update their weight
+* [x] User can view progress towards goal
+* [x] User can edit their goals
+* [x] User can change password
+* [x] User can delete account
 
 
 **Optional Nice-to-have Stories**
